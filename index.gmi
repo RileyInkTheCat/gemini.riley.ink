@@ -1,0 +1,33 @@
+```
+#*********************#
+* ███  ██    █  █  █  *
+*  █   █ █   █  █ █   *
+*  █   █  █  █  ██    *
+*  █   █   █ █  █ █   *
+* ███  █    ██  █  █  *
+#*********************#
+```
+# Welcome to MustachedSquid's Capsule.
+
+        Hi! I am MustachedSquid, I am a young adult who likes programming and playing games!
+        I am also kind of a nerd.
+
+### Stuff I like:
+    * Games
+    * Coding
+    * Cookies
+
+### Stuff I made:
+=> projects.gmi My Projects
+
+### Other Capsules I like
+=>
+
+
+
+### Contacts
+
+=> mailto:contact@mustachedsquid.com My E-mail
+=> https://www.mustachedsquid.com My Website
+=> https://github.com/MustachedSquid Me on GitHub
+=> https://sr.ht/~mustachedsquid/ Me on Sourcehut
