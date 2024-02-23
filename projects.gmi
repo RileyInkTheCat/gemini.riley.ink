@@ -1,8 +1,6 @@
 # My Projects
 
-=> https://git.sr.ht/~mustachedsquid/gemini.mustachedsquid.com This capsule
-=> projects/ink-scripts/scripts.gmi ink-scripts
-=> https://sr.ht/~mustachedsquid/TetrisClone/ Clone of Tetris
+=> https://github.com/RileyInkTheCat/gemini.riley.ink This capsule
+=> https://github.com/RileyInkTheCat/tetris Clone of Tetris
 
-I am still working on setting this up!
-=> https://sr.ht/~mustachedsquid/ Find more on Sourcehut
+=> https://github.com/RileyInkTheCat Find more on my github!

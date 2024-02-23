@@ -7,10 +7,9 @@
 * ███  █    ██  █  █  *
 #*********************#
 ```
-# Welcome to MustachedSquid's Capsule.
+# Welcome to Riley Ink's Capsule.
 
-        Hi! I am MustachedSquid, I am a young adult who likes programming and playing games!
-        I am also kind of a nerd.
+     Hi I am Riley, Catboy programmer and professional cookie eater
 
 ### Stuff I like:
     * Games
@@ -27,7 +26,6 @@
 
 ### Contacts
 
-=> mailto:contact@mustachedsquid.com My E-mail
-=> https://www.mustachedsquid.com My Website
-=> https://github.com/MustachedSquid Me on GitHub
-=> https://sr.ht/~mustachedsquid/ Me on Sourcehut
+=> mailto:contact@riley.ink My E-mail
+=> https://riley.ink My Website
+=> https://github.com/RileyInkTheCat Me on GitHub
